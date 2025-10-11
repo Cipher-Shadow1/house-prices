@@ -167,7 +167,7 @@ The web interface is a **single-page application** with a custom sidebar navigat
 
 <div align="center">
 
-### 🌐 [View Live Project →](https://Abdou-rahmoun-r-house-price-prediction.vercel.app/)
+### 🌐 [View Live Project →](https://rahmoun-r-house-price-prediction.vercel.app/)
 
 > Open the site, navigate to **"Data Science R Script"** in the sidebar  
 > to explore the full interactive R notebook with charts, code, and results.
@@ -193,6 +193,6 @@ _Data Scientist & Analyst_
 
 ---
 
-<sub>© 2024 Rahmoun Rayan Abderrahime — House Price Prediction with R & XGBoost</sub>
+<sub>© 2025 Rahmoun Rayan Abderrahime — House Price Prediction with R & XGBoost</sub>
 
 </div>
